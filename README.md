@@ -3,7 +3,7 @@ This project is a simple implementation of a Project Management System using Spr
 It provides CRUD (Create, Read, Update, Delete) operations for managing projects.
 
 ## Technologies Used
-Java 17
+Java 17<br/>
 Spring Boot
 Spring Data JPA
 H2 database
