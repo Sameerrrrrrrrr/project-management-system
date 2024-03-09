@@ -10,14 +10,14 @@ H2 database
 Maven
 OpenAPI docs
 
-### Features
+## Features
 Create Project - Create a new project with required details
 Fetch Project - Retrieves project from the database if exists using Id
 Fetch All Projects - Retrieves all projects from the db
 Update Project - Updates project details 
 Delete Project - Deletes the project details from database using Id
 
-#### Setup
+## Setup
 1.Clone the repository
 2.Navigate to the project directory
 3.Build the project using maven
@@ -25,7 +25,7 @@ Delete Project - Deletes the project details from database using Id
 
 The Application will be accessible at http://localhost:8080
 
-###### API Endpoints
+## API Endpoints
 1.GET /project/get-project/{projectId}: Retrieve details of a project by its ID.
 2.POST /project/add-project: Create a new project.
 3.PUT /projects/update-project/{projectId}: Update an existing project by its ID.
